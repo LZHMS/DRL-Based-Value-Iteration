@@ -1,0 +1,303 @@
+discount factor: 0.000000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.010000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.020000
+Applying the random policy, accumulated reward: -55.00000, average reward: -5.50000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.030000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.040000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.050000
+Applying the random policy, accumulated reward: -10.00000, average reward: -1.00000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.060000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.070000
+Applying the random policy, accumulated reward: -19.00000, average reward: -1.90000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.080000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.090000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.100000
+Applying the random policy, accumulated reward: -55.00000, average reward: -5.50000
+Applying the optimal policy, accumulated reward: 10.00000, average reward: 0.90909
+discount factor: 0.110000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 9.00000, average reward: 0.75000
+discount factor: 0.120000
+Applying the random policy, accumulated reward: -55.00000, average reward: -5.50000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.130000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.140000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 10.00000, average reward: 0.90909
+discount factor: 0.150000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 11.00000, average reward: 1.10000
+discount factor: 0.160000
+Applying the random policy, accumulated reward: -19.00000, average reward: -1.90000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.170000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.180000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 14.00000, average reward: 2.00000
+discount factor: 0.190000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.200000
+Applying the random policy, accumulated reward: -55.00000, average reward: -5.50000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.210000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 11.00000, average reward: 1.10000
+discount factor: 0.220000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.230000
+Applying the random policy, accumulated reward: -55.00000, average reward: -5.50000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.240000
+Applying the random policy, accumulated reward: -19.00000, average reward: -1.90000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.250000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 15.00000, average reward: 2.50000
+discount factor: 0.260000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 10.00000, average reward: 0.90909
+discount factor: 0.270000
+Applying the random policy, accumulated reward: -82.00000, average reward: -8.20000
+Applying the optimal policy, accumulated reward: 8.00000, average reward: 0.61538
+discount factor: 0.280000
+Applying the random policy, accumulated reward: -64.00000, average reward: -6.40000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.290000
+Applying the random policy, accumulated reward: -19.00000, average reward: -1.90000
+Applying the optimal policy, accumulated reward: 6.00000, average reward: 0.40000
+discount factor: 0.300000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 11.00000, average reward: 1.10000
+discount factor: 0.310000
+Applying the random policy, accumulated reward: -55.00000, average reward: -5.50000
+Applying the optimal policy, accumulated reward: 8.00000, average reward: 0.61538
+discount factor: 0.320000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.330000
+Applying the random policy, accumulated reward: -55.00000, average reward: -5.50000
+Applying the optimal policy, accumulated reward: -20.00000, average reward: -1.00000
+discount factor: 0.340000
+Applying the random policy, accumulated reward: -55.00000, average reward: -5.50000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.350000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 5.00000, average reward: 0.31250
+discount factor: 0.360000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.370000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 9.00000, average reward: 0.75000
+discount factor: 0.380000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 8.00000, average reward: 0.61538
+discount factor: 0.390000
+Applying the random policy, accumulated reward: -55.00000, average reward: -5.50000
+Applying the optimal policy, accumulated reward: 8.00000, average reward: 0.61538
+discount factor: 0.400000
+Applying the random policy, accumulated reward: -10.00000, average reward: -1.00000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.410000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 11.00000, average reward: 1.10000
+discount factor: 0.420000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 5.00000, average reward: 0.31250
+discount factor: 0.430000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 10.00000, average reward: 0.90909
+discount factor: 0.440000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 8.00000, average reward: 0.61538
+discount factor: 0.450000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.460000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 4.00000, average reward: 0.23529
+discount factor: 0.470000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 6.00000, average reward: 0.40000
+discount factor: 0.480000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 5.00000, average reward: 0.31250
+discount factor: 0.490000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 15.00000, average reward: 2.50000
+discount factor: 0.500000
+Applying the random policy, accumulated reward: -64.00000, average reward: -6.40000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.510000
+Applying the random policy, accumulated reward: -55.00000, average reward: -5.50000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.520000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 6.00000, average reward: 0.40000
+discount factor: 0.530000
+Applying the random policy, accumulated reward: -55.00000, average reward: -5.50000
+Applying the optimal policy, accumulated reward: 5.00000, average reward: 0.31250
+discount factor: 0.540000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 8.00000, average reward: 0.61538
+discount factor: 0.550000
+Applying the random policy, accumulated reward: -19.00000, average reward: -1.90000
+Applying the optimal policy, accumulated reward: 13.00000, average reward: 1.62500
+discount factor: 0.560000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 11.00000, average reward: 1.10000
+discount factor: 0.570000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 4.00000, average reward: 0.23529
+discount factor: 0.580000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 8.00000, average reward: 0.61538
+discount factor: 0.590000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 12.00000, average reward: 1.33333
+discount factor: 0.600000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 9.00000, average reward: 0.75000
+discount factor: 0.610000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 6.00000, average reward: 0.40000
+discount factor: 0.620000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 11.00000, average reward: 1.10000
+discount factor: 0.630000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 6.00000, average reward: 0.40000
+discount factor: 0.640000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 12.00000, average reward: 1.33333
+discount factor: 0.650000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 10.00000, average reward: 0.90909
+discount factor: 0.660000
+Applying the random policy, accumulated reward: -64.00000, average reward: -6.40000
+Applying the optimal policy, accumulated reward: 9.00000, average reward: 0.75000
+discount factor: 0.670000
+Applying the random policy, accumulated reward: -19.00000, average reward: -1.90000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.680000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 10.00000, average reward: 0.90909
+discount factor: 0.690000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 5.00000, average reward: 0.31250
+discount factor: 0.700000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 9.00000, average reward: 0.75000
+discount factor: 0.710000
+Applying the random policy, accumulated reward: -19.00000, average reward: -1.90000
+Applying the optimal policy, accumulated reward: 11.00000, average reward: 1.10000
+discount factor: 0.720000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.730000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 4.00000, average reward: 0.23529
+discount factor: 0.740000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 5.00000, average reward: 0.31250
+discount factor: 0.750000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 6.00000, average reward: 0.40000
+discount factor: 0.760000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 11.00000, average reward: 1.10000
+discount factor: 0.770000
+Applying the random policy, accumulated reward: -64.00000, average reward: -6.40000
+Applying the optimal policy, accumulated reward: 4.00000, average reward: 0.23529
+discount factor: 0.780000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.790000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 9.00000, average reward: 0.75000
+discount factor: 0.800000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 4.00000, average reward: 0.23529
+discount factor: 0.810000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.820000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 12.00000, average reward: 1.33333
+discount factor: 0.830000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 6.00000, average reward: 0.40000
+discount factor: 0.840000
+Applying the random policy, accumulated reward: -55.00000, average reward: -5.50000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.850000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.860000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 5.00000, average reward: 0.31250
+discount factor: 0.870000
+Applying the random policy, accumulated reward: -64.00000, average reward: -6.40000
+Applying the optimal policy, accumulated reward: 9.00000, average reward: 0.75000
+discount factor: 0.880000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 8.00000, average reward: 0.61538
+discount factor: 0.890000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 8.00000, average reward: 0.61538
+discount factor: 0.900000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.910000
+Applying the random policy, accumulated reward: -64.00000, average reward: -6.40000
+Applying the optimal policy, accumulated reward: 8.00000, average reward: 0.61538
+discount factor: 0.920000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.930000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 6.00000, average reward: 0.40000
+discount factor: 0.940000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 7.00000, average reward: 0.50000
+discount factor: 0.950000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 5.00000, average reward: 0.31250
+discount factor: 0.960000
+Applying the random policy, accumulated reward: -19.00000, average reward: -1.90000
+Applying the optimal policy, accumulated reward: 6.00000, average reward: 0.40000
+discount factor: 0.970000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 10.00000, average reward: 0.90909
+discount factor: 0.980000
+Applying the random policy, accumulated reward: -28.00000, average reward: -2.80000
+Applying the optimal policy, accumulated reward: 9.00000, average reward: 0.75000
+discount factor: 0.990000
+Applying the random policy, accumulated reward: -46.00000, average reward: -4.60000
+Applying the optimal policy, accumulated reward: 8.00000, average reward: 0.61538
+discount factor: 1.000000
+Applying the random policy, accumulated reward: -37.00000, average reward: -3.70000
+Applying the optimal policy, accumulated reward: 11.00000, average reward: 1.10000
