@@ -4,19 +4,20 @@
 Generally, we notes a MDP model as $(S, A, T_a, R_a, \gamma)$. Its transition function is $T_a(s,s')=\Pr(s_{t+1}|s_t=s, a_t=a)$, reward function is $R_a(s,s')$. And actions choosing satisfies a specific distribution.
 The cotinuous decisions are noted as trace $\tau$, formally in formula:
 
-$$
-\tau=\{s_t, a_t, r_t, s_{t+1}, \cdots, a_{t+n}, r_{t+n}, s_{t+n+1}\}
-$$
+<center>$\tau=${$s_t, a_t, r_t, s_{t+1}, \cdots, a_{t+n}, r_{t+n}, s_{t+n+1}$}</center>
 
 And in many situations, we very care about the expected reward of a specific trace because that will support us to choose the optimal action currently. So we use the method like weighted time series to calculate cumulative reward:
+
 $$
-R(\tau_t) = r_t + \gamma r_{t+1} + \gamma^2 r_{t+2} + \cdots=r_t+\sum_{i=1}^\infty \gamma^ir_{t+i}
+R(\tau_t) = r_t + \gamma r_{t+1} + \gamma^2 r_{t+2} + \cdots=r_t+\sum_{i=1}^{\infty} \gamma^ir_{t+i}
 $$
 
 After we got the return value of traces, we can just calculate the value of a state to form our policy.
+
 $$
 V^{\pi}(s)=E_{\tau\sim p(\tau_t)}[\sum_{i=0}^\infty \gamma^ir_{t+i}|s_t=s]
 $$
+
 However, although we can get the value function to form optimal policy, we cann't still calculate the values of all states. So we need Bellmax Equation to solve the problem.
 ### Bellman Equation
 $$
