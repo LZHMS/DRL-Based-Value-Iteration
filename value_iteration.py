@@ -13,13 +13,13 @@ Arguments:
 --------------------------------------------------------------------------------------
 """
 
-class ValueMDP:
+class ValueIterMDP:
 
     def __init__(self, env, opts, gamma) -> None:
         self.env = env                    # taxi gym environment
         self.gamma = gamma           # discount_factor
-        self.NA = opts.NA                 # Actions Space's Length
-        self.NS = opts.NS                 # States Space's Length
+        self.NA = env.action_space.n                 # Actions Space's Length
+        self.NS = env.observation_space.n                 # States Space's Length
         self.V = np.zeros(self.NS)        # Value Function
         self.end_delta = opts.end_delta   # Delta value for stopping iteration
         self.new_policy = np.zeros(self.NS)    # the optimal policy

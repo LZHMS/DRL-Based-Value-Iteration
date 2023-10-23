@@ -8,7 +8,8 @@ Research Content: Deep Reinforcement Learning
 """
 
 from options import BaseOptions
-from value_iteration import ValueMDP
+from Value_Iteration import ValueIterMDP
+from Q_Learning import QLearnMDP
 import gym                 # openAi gym
 import numpy as np
 import matplotlib.pyplot as plt
@@ -23,13 +24,16 @@ Efont_prop = FontProperties(fname="C:\Windows\Fonts\ARLRDBD.TTF")
 label_prop = FontProperties(family='serif', size=7, weight='normal')
 legend_font = FontProperties(family='serif', size=7, weight='normal')
 
+
 if __name__ == '__main__':
 
     opts = BaseOptions().parse()         # set project's options
 
     # Set OpenAI Gym environment
     env = gym.make('Taxi-v3', render_mode="rgb_array")
-
+    
+    """ ----------------Value Iteration Algorithm--------------------- """
+    print("-------------------------Start training the Value_Iteration MDP model-------------------------")
     gamma_delta = 0.01
     aver_rewards = np.zeros(len(np.arange(opts.lb_gamma, opts.ub_gamma + gamma_delta, gamma_delta)))
     random_aver_rewards = np.zeros(aver_rewards.shape)
@@ -37,7 +41,7 @@ if __name__ == '__main__':
     random_cum_rewards = np.zeros(aver_rewards.shape)
     for t, gamma in enumerate(np.arange(opts.lb_gamma, opts.ub_gamma + gamma_delta, gamma_delta)):
         # Init env and value iteration process
-        VIMDP = ValueMDP(env, opts, gamma)
+        VIMDP = ValueIterMDP(env, opts, gamma)
     
         # Apply the random policy
         VIMDP.env.reset(seed=t+101)
@@ -79,4 +83,12 @@ if __name__ == '__main__':
     plt.legend(loc='lower right', fontsize=7, prop=legend_font)
 
     plt.savefig("Rewards.png", dpi=400)
+
+    " -------------------------Q Learning Algorithm------------------------ "
+    QLMDP = QLearnMDP(env, 0.2, 0.7, 0.08, 2000)
+    print("-------------------------Start training the Q_Learning MDP model-------------------------")
+    QLMDP.train()
+    print("-------------------------Start evaluating the Q_Learning MDP model-------------------------")
+    QLMDP.evaluate(5)
+
     env.close()
